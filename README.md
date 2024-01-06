@@ -1,5 +1,4 @@
-Cyber Security Enthusiast | Student 
-Pursuing a Bachelor's degree in Cyber Security at Gitam University Bangalore
+Cyber Security Enthusiast | Student
 
 <!--
 **prajwalll01/prajwalll01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
